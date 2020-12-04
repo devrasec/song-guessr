@@ -8,7 +8,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h2>Hi there!</h2>
+      <h1 className="is-size-1 has-text-centered has-text-primary">What song is this?</h1>
     </div>
   )
 }
